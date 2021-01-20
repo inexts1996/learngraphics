@@ -1,0 +1,3 @@
+/cygdrive/e/githubs/learngraphics/projects/mytinyrenderer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/githubs/learngraphics/projects/mytinyrenderer/cmake-build-debug/CMakeFiles/mytinyrenderer.dir
+/cygdrive/e/githubs/learngraphics/projects/mytinyrenderer/cmake-build-debug/CMakeFiles/edit_cache.dir

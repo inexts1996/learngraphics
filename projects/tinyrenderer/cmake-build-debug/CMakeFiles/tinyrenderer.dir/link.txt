@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/tinyrenderer.dir/tgaimage.cpp.o CMakeFiles/tinyrenderer.dir/main.cpp.o  -o tinyrenderer.exe -Wl,--out-implib,libtinyrenderer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

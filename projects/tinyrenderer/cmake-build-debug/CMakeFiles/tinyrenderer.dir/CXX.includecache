@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/githubs/learngraphics/projects/tinyrenderer/main.cpp
+iostream
+-
+tgaimage.h
+/cygdrive/e/githubs/learngraphics/projects/tinyrenderer/tgaimage.h
+
+/cygdrive/e/githubs/learngraphics/projects/tinyrenderer/tgaimage.h
+fstream
+-
+
